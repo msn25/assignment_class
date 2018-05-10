@@ -1,1 +1,1 @@
-print("Sahi toh bol rahe hai hum Bhabhi, galat thodi kuch bole hai!")
+print("Didi, code ke saath masti mat karo. Hume Pythonwa aata nahi waise bhi")
