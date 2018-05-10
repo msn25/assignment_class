@@ -1,1 +1,1 @@
-print("Sahi toh bol rahe hai hum Bhabhi, galat thodi kuch bole hai!")
+print("Sahi toh bol rahe hai hum Bhabhi --strikethrough-- MADHURA! SHOUTY CAPITALS! MADHURA, galat thodi kuch bole hai!")
