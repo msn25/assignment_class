@@ -1,1 +1,1 @@
-print("Didi, code ke saath masti mat karo. Hume Pythonwa aata nahi waise bhi")
+print("my code-madhura")
